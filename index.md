@@ -39,4 +39,4 @@ Der Strichcode ist: 640509-040147
 
 
 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwall.alphacoders.com%2Fbig.php%3Fi%3D676622&psig=AOvVaw0bChcEj5TQXiFj50N3RFn5&ust=1592570015309000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCND3ouavi-oCFQAAAAAdAAAAABBP"/>
+<img src="https://images2.alphacoders.com/676/676622.jpg"/>
