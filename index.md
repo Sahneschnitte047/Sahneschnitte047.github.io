@@ -1,4 +1,14 @@
-# Agent 47 <h1>
+# Agent 47
+## Charakterbeschreibung:
+* Auftragskiller
+* Verkleidungsmeister
+* Lässt alles wie einen Unfall aussehen
+* Anzugträger
+* Glatze
+* Rote Krawatte
+* Strichcode
+* Waisenkind
+* hat keinen Namen (nur Agent 47)
   
 Obwohl 47 als herzlose Tötungsmaschine konzipiert worden ist, zeigt er doch gelegentlich Anzeichen von Moral, als er bspw. in Hitman 2: Silent Assassin Emilio Vittorio seine Sünden beichtet, weil er Menschen für Geld tötet. 
 47 ist zwar einerseits am liebsten allein, hat jedoch gleichzeitiges ein tiefes, wenn auch nicht unbedingt ausgelebtes Verhältnis mit den wenigen befreundeten Menschen wie Diana Burnwood und Vittorio.
