@@ -36,3 +36,7 @@ Sein Gesichtsausdruck ist stets neutral, wenn nicht sogar ein wenig bedrohlich.
 Lediglich seine Augen wirken wach und behalten die Umgebung stets im Blick.
 
 Der Strichcode ist: 640509-040147
+
+
+
+<img src="https://images2.alphacoders.com/676/676622.jpg"/>
