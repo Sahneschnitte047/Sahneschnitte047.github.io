@@ -9,6 +9,10 @@
 * Strichcode
 * Waisenkind
 * hat keinen Namen (nur Agent 47)
+
+Zitat Agent 47:
+
+> Da wo ich herkomme gab man uns keine Namen...man gab uns Nummern. Meine war 47.
   
 Obwohl 47 als herzlose Tötungsmaschine konzipiert worden ist, zeigt er doch gelegentlich Anzeichen von Moral, als er bspw. in Hitman 2: Silent Assassin Emilio Vittorio seine Sünden beichtet, weil er Menschen für Geld tötet. 
 47 ist zwar einerseits am liebsten allein, hat jedoch gleichzeitiges ein tiefes, wenn auch nicht unbedingt ausgelebtes Verhältnis mit den wenigen befreundeten Menschen wie Diana Burnwood und Vittorio.
